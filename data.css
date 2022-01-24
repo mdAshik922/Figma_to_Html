@@ -390,3 +390,13 @@ border-radius: 50px;
 .house{
     display: flex;
 }
+.footer-text{
+    display: flex;
+    gap: 3%;
+}
+
+.copy{
+    display: flex;
+    justify-content: space-between;
+    margin: 5% 5%;
+}
